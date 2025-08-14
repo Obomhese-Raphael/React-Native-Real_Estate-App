@@ -39,7 +39,7 @@ Before running this project, make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/yourusername/restate.git](https://github.com/Obomhese-Raphael/React-Native-Real_Estate-App.git)
+git clone https://github.com/Obomhese-Raphael/React-Native-Real_Estate-App.git
 ```
 
 ### 2. Install dependencies
