@@ -1,4 +1,4 @@
-# ReState 🏠
+# React Native App - ReState🏠
 
 A modern real estate mobile application built with React Native, featuring property listings, user authentication, and seamless user experience.
 
